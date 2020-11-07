@@ -1,0 +1,787 @@
+{
+  "polstermoebel": {
+    "linkText": "Polstermöbel",
+    "name": "Polstermöbel",
+    "nodeLevel": 0,
+    "path": "0/Polstermöbel",
+    "visible": true,
+    "isInOldestCategory": true,
+    "url": "polstermoebel",
+    "articleCount":  987,
+    "paths": [
+      {
+        "url": "polstermoebel",
+        "articleCount":  987,
+        "name": "Polstermöbel"
+      }
+    ],
+    "children": [
+      {
+        "url": "polsterzubehoer",
+        "articleCount": 543,
+        "name": "Polsterzubehör",
+        "children": null
+      },
+      {
+        "url": "relaxliegen",
+        "articleCount": 654,
+        "name": "Relaxliegen",
+        "children": [
+          {
+            "url": "recamiere",
+            "articleCount": 78,
+            "name": "Récamiere",
+            "children": null
+          }
+        ]
+      },
+      {
+        "url": "hocker",
+        "articleCount": 1987,
+        "name": "Hocker",
+        "children": [
+          {
+            "url": "sitzsaecke",
+            "articleCount": 13,
+            "name": "Sitzsäcke",
+            "children": null
+          },
+          {
+            "url": "holzhocker",
+            "articleCount": 941,
+            "name": "Holzhocker",
+            "children": null
+          },
+          {
+            "url": "sitzpouf",
+            "articleCount": 987,
+            "name": "Sitzpouf",
+            "children": null
+          },
+          {
+            "url": "hockerbaenke",
+            "articleCount": 123,
+            "name": "Hockerbänke",
+            "children": null
+          },
+          {
+            "url": "polsterhocker",
+            "articleCount": 987,
+            "name": "Polsterhocker",
+            "children": null
+          },
+          {
+            "url": "drehhocker",
+            "articleCount": 65,
+            "name": "Drehhocker",
+            "children": null
+          },
+          {
+            "url": "badhocker",
+            "articleCount": 89,
+            "name": "Badhocker",
+            "children": null
+          },
+          {
+            "url": "tritthocker",
+            "articleCount": 987,
+            "name": "Tritthocker",
+            "children": null
+          },
+          {
+            "url": "klapphocker",
+            "articleCount": 654,
+            "name": "Klapphocker",
+            "children": null
+          }
+        ]
+      },
+      {
+        "url": "sessel",
+        "articleCount": 6497,
+        "name": "Sessel",
+        "children": [
+          {
+            "url": "schlafsessel",
+            "articleCount": 231,
+            "name": "Schlafsessel",
+            "children": null
+          },
+          {
+            "url": "relaxsessel",
+            "articleCount": 4154,
+            "name": "Relaxsessel",
+            "children": null
+          },
+          {
+            "url": "cocktailsessel",
+            "articleCount": 987,
+            "name": "Cocktailsessel",
+            "children": null
+          },
+          {
+            "url": "clubsessel",
+            "articleCount": 641,
+            "name": "Clubsessel",
+            "children": null
+          },
+          {
+            "url": "drehsessel",
+            "articleCount": 987,
+            "name": "Drehsessel",
+            "children": null
+          },
+          {
+            "url": "polstersessel",
+            "articleCount": 987,
+            "name": "Polstersessel",
+            "children": null
+          },
+          {
+            "url": "soundsessel",
+            "articleCount": 947,
+            "name": "Soundsessel",
+            "children": null
+          },
+          {
+            "url": "massagesessel",
+            "articleCount": 987,
+            "name": "Massagesessel",
+            "children": null
+          },
+          {
+            "url": "kindersessel",
+            "articleCount": 987,
+            "name": "Kindersessel",
+            "children": null
+          },
+          {
+            "url": "loungesessel",
+            "articleCount": 642,
+            "name": "Lounge Sessel",
+            "children": null
+          },
+          {
+            "url": "fernsehsessel",
+            "articleCount": 613,
+            "name": "Fernsehsessel",
+            "children": null
+          },
+          {
+            "url": "chesterfield-sessel",
+            "articleCount": 987,
+            "name": "Chesterfield Sessel",
+            "children": null
+          },
+          {
+            "url": "rattansessel",
+            "articleCount": 613,
+            "name": "Rattansessel",
+            "children": null
+          },
+          {
+            "url": "schaukel-sessel",
+            "articleCount": 643,
+            "name": "Schaukelsessel",
+            "children": null
+          },
+          {
+            "url": "ledersessel",
+            "articleCount": 315,
+            "name": "Ledersessel",
+            "children": null
+          },
+          {
+            "url": "ohrensessel",
+            "articleCount": 64,
+            "name": "Ohrensessel",
+            "children": null
+          }
+        ]
+      },
+      {
+        "url": "sofas",
+        "articleCount": 64,
+        "name": "Sofas",
+        "children": [
+          {
+            "url": "ottomanen",
+            "articleCount": 312,
+            "name": "Ottomanen  & Chaiselongues",
+            "children": null
+          },
+          {
+            "url": "wohnlandschaften",
+            "articleCount": 61,
+            "name": "Wohnlandschaften",
+            "children": null
+          },
+          {
+            "url": "sitzgruppen",
+            "articleCount": 31,
+            "name": "Sitzgruppen",
+            "children": null
+          },
+          {
+            "url": "big-sofas",
+            "articleCount": 987,
+            "name": "Big-Sofas",
+            "children": null
+          },
+          {
+            "url": "einzelsofas",
+            "articleCount": 987,
+            "name": "Einzelsofas",
+            "children": null
+          },
+          {
+            "url": "3-sitzer",
+            "articleCount": 987,
+            "name": "3-Sitzer",
+            "children": null
+          },
+          {
+            "url": "schlafsofas",
+            "articleCount": 61,
+            "name": "Schlafsofas",
+            "children": null
+          },
+          {
+            "url": "ledersofas",
+            "articleCount": 987,
+            "name": "Ledersofas",
+            "children": null
+          },
+          {
+            "url": "ecksofas",
+            "articleCount": 914,
+            "name": "Ecksofas",
+            "children": null
+          },
+          {
+            "url": "2-sitzer",
+            "articleCount": 987,
+            "name": "2-Sitzer",
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "betten": {
+    "linkText": "Betten",
+    "name": "Betten",
+    "nodeLevel": 0,
+    "path": "0/Betten",
+    "visible": true,
+    "isInOldestCategory": true,
+    "url": "betten",
+    "articleCount": 1671,
+    "paths": [
+      {
+        "url": "betten",
+        "articleCount": 27,
+        "name": "Betten"
+      }
+    ],
+    "children": [
+      {
+        "url": "futonbetten",
+        "articleCount": 917,
+        "name": "Futonbetten",
+        "children": [
+          {
+            "url": "futonbetten-120x200",
+            "articleCount": 356,
+            "name": "Futonbetten 120x200",
+            "children": null
+          },
+          {
+            "url": "futonbetten-140x200",
+            "articleCount": 47,
+            "name": "Futonbetten 140x200",
+            "children": null
+          },
+          {
+            "url": "futonbetten-180x200",
+            "articleCount": 89,
+            "name": "Futonbetten 180x200",
+            "children": null
+          },
+          {
+            "url": "futonbetten-160x200",
+            "articleCount": 49,
+            "name": "Futonbetten 160x200",
+            "children": null
+          },
+          {
+            "url": "futonbetten-90x200",
+            "articleCount": 79,
+            "name": "Futonbetten 90x200",
+            "children": null
+          },
+          {
+            "url": "futonbetten-200x200",
+            "articleCount": 5677,
+            "name": "Futonbetten 200x200",
+            "children": null
+          },
+          {
+            "url": "futonbetten-mit-bettkasten",
+            "articleCount": 653,
+            "name": "Futonbetten mit Bettkasten",
+            "children": null
+          }
+        ]
+      },
+      {
+        "url": "massivholzbetten",
+        "articleCount": 2347,
+        "name": "Massivholzbetten",
+        "children": [
+          {
+            "url": "einzel-massivholzbetten",
+            "articleCount": 35,
+            "name": "Einzel-Massivholzbetten",
+            "children": null
+          },
+          {
+            "url": "massivholzbetten-140x200",
+            "articleCount": 73,
+            "name": "Massivholzbetten 140x200",
+            "children": null
+          },
+          {
+            "url": "massivholzbetten-160x200",
+            "articleCount": 37,
+            "name": "Massivholzbetten 160x200",
+            "children": null
+          },
+          {
+            "url": "massivholzbetten-180x200",
+            "articleCount": 987,
+            "name": "Massivholzbetten 180x200",
+            "children": null
+          },
+          {
+            "url": "massivholzbetten-200x200",
+            "articleCount": 987,
+            "name": "Massivholzbetten 200x200",
+            "children": null
+          }
+        ]
+      },
+      {
+        "url": "gaestebetten",
+        "articleCount": 987,
+        "name": "Gästebetten",
+        "children": null
+      },
+      {
+        "url": "schlafzimmerzubehoer",
+        "articleCount": 987,
+        "name": "Schlafzimmerzubehör",
+        "children": null
+      },
+      {
+        "url": "einzelbetten",
+        "articleCount": 987,
+        "name": "Einzelbetten",
+        "children": null
+      },
+      {
+        "url": "metallbetten",
+        "articleCount": 987,
+        "name": "Metallbetten",
+        "children": null
+      },
+      {
+        "url": "komfortbetten",
+        "articleCount": 987,
+        "name": "Komfortbetten",
+        "children": null
+      },
+      {
+        "url": "ausziehbetten",
+        "articleCount": 987,
+        "name": "Ausziehbetten",
+        "children": null
+      },
+      {
+        "url": "boxspringbetten",
+        "articleCount": 987,
+        "name": "Boxspringbetten",
+        "children": [
+          {
+            "url": "boxspringbetten-200x200",
+            "articleCount": 987,
+            "name": "Boxspringbetten 200x200",
+            "children": null
+          },
+          {
+            "url": "boxspringbetten-180x200",
+            "articleCount": 987,
+            "name": "Boxspringbetten 180x200",
+            "children": null
+          },
+          {
+            "url": "boxspringbetten-160x200",
+            "articleCount": 987,
+            "name": "Boxspringbetten 160x200",
+            "children": null
+          },
+          {
+            "url": "einzel-boxspringbetten",
+            "articleCount": 987,
+            "name": "Einzel-Boxspringbetten",
+            "children": null
+          },
+          {
+            "url": "boxspringbetten-140x200",
+            "articleCount": 987,
+            "name": "Boxspringbetten 140x200",
+            "children": null
+          },
+          {
+            "url": "boxspringbetten-elektrisch-verstellbar",
+            "articleCount": 987,
+            "name": "Elektrisch verstellbare Boxspringbetten",
+            "children": null
+          },
+          {
+            "url": "boxspringbetten-mit-bettkasten",
+            "articleCount": 987,
+            "name": "Boxspringbetten mit Bettkasten",
+            "children": null
+          }
+        ]
+      },
+      {
+        "url": "doppelbetten",
+        "articleCount": 987,
+        "name": "Doppelbetten",
+        "children": [
+          {
+            "url": "doppelbetten-mit-bettkasten",
+            "articleCount": 987,
+            "name": "Doppelbetten mit Bettkasten",
+            "children": null
+          },
+          {
+            "url": "doppelbetten-200x200",
+            "articleCount": 987,
+            "name": "Doppelbetten 200x200",
+            "children": null
+          },
+          {
+            "url": "doppelbetten-180x200",
+            "articleCount": 987,
+            "name": "Doppelbetten 180x200",
+            "children": null
+          },
+          {
+            "url": "doppelbetten-160x200",
+            "articleCount": 987,
+            "name": "Doppelbetten 160x200",
+            "children": null
+          },
+          {
+            "url": "doppelbetten-140x200",
+            "articleCount": 987,
+            "name": "Doppelbetten 140x200",
+            "children": null
+          },
+          {
+            "url": "motor-doppelbetten",
+            "articleCount": 987,
+            "name": "Motor-Doppelbetten",
+            "children": null
+          },
+          {
+            "url": "sonstige-doppelbetten",
+            "articleCount": 987,
+            "name": "Sonstige Doppelbetten",
+            "children": null
+          }
+        ]
+      },
+      {
+        "url": "polsterbetten",
+        "articleCount": 987,
+        "name": "Polsterbetten",
+        "children": [
+          {
+            "url": "einzel-polsterbetten",
+            "articleCount": 987,
+            "name": "Einzel-Polsterbetten",
+            "children": null
+          },
+          {
+            "url": "polsterbetten-140x200",
+            "articleCount": 987,
+            "name": "Polsterbetten 140x200",
+            "children": null
+          },
+          {
+            "url": "polsterbetten-160x200",
+            "articleCount": 987,
+            "name": "Polsterbetten 160x200",
+            "children": null
+          },
+          {
+            "url": "polsterbetten-180x200",
+            "articleCount": 987,
+            "name": "Polsterbetten 180x200",
+            "children": null
+          },
+          {
+            "url": "polsterbetten-200x200",
+            "articleCount": 987,
+            "name": "Polsterbetten 200x200",
+            "children": null
+          }
+        ]
+      },
+      {
+        "url": "bettgestelle",
+        "articleCount": 987,
+        "name": "Bettgestelle",
+        "children": [
+          {
+            "url": "bettgestelle-120x200",
+            "articleCount": 987,
+            "name": "Bettgestelle 120x200",
+            "children": null
+          },
+          {
+            "url": "bettgestelle-140x200",
+            "articleCount": 987,
+            "name": "Bettgestelle 140x200",
+            "children": null
+          },
+          {
+            "url": "bettgestelle-160x200",
+            "articleCount": 987,
+            "name": "Bettgestelle 160x200",
+            "children": null
+          },
+          {
+            "url": "bettgestelle-180x200",
+            "articleCount": 987,
+            "name": "Bettgestelle 180x200",
+            "children": null
+          },
+          {
+            "url": "bettgestelle-200x200",
+            "articleCount": 987,
+            "name": "Bettgestelle 200x200",
+            "children": null
+          },
+          {
+            "url": "bettgestelle-90x200",
+            "articleCount": 987,
+            "name": "Bettgestelle 90x200",
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  "schraenke": {
+    "linkText": "Schränke",
+    "name": "Schränke",
+    "nodeLevel": 0,
+    "path": "0/Schränke",
+    "visible": true,
+    "isInOldestCategory": true,
+    "url": "schraenke",
+    "articleCount": 1235,
+    "paths": [
+      {
+        "url": "schraenke",
+        "articleCount": 987,
+        "name": "Schränke"
+      }
+    ],
+    "children": [
+      {
+        "url": "kleiderschraenke",
+        "articleCount": 987,
+        "name": "Kleiderschränke",
+        "children": [
+          {
+            "url": "drehtuerenschraenke",
+            "articleCount": 987,
+            "name": "Drehtürenschränke",
+            "children": null
+          },
+          {
+            "url": "schwebetuerenschraenke",
+            "articleCount": 987,
+            "name": "Schwebetürenschränke",
+            "children": null
+          },
+          {
+            "url": "kleiderschraenke-massivholz",
+            "articleCount": 987,
+            "name": "Kleiderschränke massivholz",
+            "children": null
+          },
+          {
+            "url": "eck-kleiderschraenke",
+            "articleCount": 987,
+            "name": "Eck-Kleiderschränke",
+            "children": null
+          }
+        ]
+      },
+      {
+        "url": "badschraenke",
+        "articleCount": 987,
+        "name": "Badschränke",
+        "children": [
+          {
+            "url": "bad-hochschraenke",
+            "articleCount": 987,
+            "name": "Bad-Hochschränke",
+            "children": null
+          },
+          {
+            "url": "sanitaer-armaturen",
+            "articleCount": 987,
+            "name": "Sanitär-Armaturen",
+            "children": null
+          },
+          {
+            "url": "bad-unterschraenke",
+            "articleCount": 987,
+            "name": "Bad-Unterschränke",
+            "children": null
+          },
+          {
+            "url": "badezimmer-spiegel",
+            "articleCount": 987,
+            "name": "Badezimmerspiegel",
+            "children": null
+          },
+          {
+            "url": "komplett-badkombinationen",
+            "articleCount": 987,
+            "name": "Komplett-Badkombinationen",
+            "children": null
+          },
+          {
+            "url": "waschbeckenunterschraenke",
+            "articleCount": 987,
+            "name": "Waschbecken-unterschränke",
+            "children": null
+          },
+          {
+            "url": "badezimmer-spiegelschraenke",
+            "articleCount": 987,
+            "name": "Spiegelschränke",
+            "children": null
+          },
+          {
+            "url": "waschplaetze",
+            "articleCount": 987,
+            "name": "Waschplätze",
+            "children": null
+          },
+          {
+            "url": "bad-wandschraenke",
+            "articleCount": 987,
+            "name": "Bad-Hängeschränke",
+            "children": null
+          }
+        ]
+      },
+      {
+        "url": "highboards",
+        "articleCount": 987,
+        "name": "Highboards",
+        "children": [
+          {
+            "url": "highboards-glas",
+            "articleCount": 987,
+            "name": "Highboards mit Glastüren",
+            "children": null
+          }
+        ]
+      },
+      {
+        "url": "vitrinen-anrichten",
+        "articleCount": 987,
+        "name": "Vitrinen & Anrichten",
+        "children": null
+      },
+      {
+        "url": "aktenschraenke",
+        "articleCount": 987,
+        "name": "Aktenschränke",
+        "children": null
+      },
+      {
+        "url": "garderobenschraenke",
+        "articleCount": 987,
+        "name": "Garderobenschränke",
+        "children": null
+      },
+      {
+        "url": "wandschraenke",
+        "articleCount": 987,
+        "name": "Wandschränke",
+        "children": null
+      },
+      {
+        "url": "buffets",
+        "articleCount": 987,
+        "name": "Buffets",
+        "children": null
+      },
+      {
+        "url": "haengeschraenke",
+        "articleCount": 987,
+        "name": "Hängeschränke",
+        "children": null
+      },
+      {
+        "url": "rollcontainer",
+        "articleCount": 987,
+        "name": "Rollcontainer",
+        "children": null
+      },
+      {
+        "url": "wohnwaende",
+        "articleCount": 987,
+        "name": "Wohnwände",
+        "children": null
+      },
+      {
+        "url": "schranksysteme",
+        "articleCount": 987,
+        "name": "Schranksysteme",
+        "children": null
+      },
+      {
+        "url": "dielenschraenke",
+        "articleCount": 987,
+        "name": "Dielenschränke",
+        "children": null
+      },
+      {
+        "url": "schuhschraenke",
+        "articleCount": 987,
+        "name": "Schuhschränke",
+        "children": [
+          {
+            "url": "schuh-regale",
+            "articleCount": 987,
+            "name": "Schuhregale",
+            "children": null
+          }
+        ]
+      }
+    ]
+  }
+}
